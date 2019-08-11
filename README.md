@@ -1,6 +1,6 @@
 # Market_basket
 
- Apriori Algorithm
+ Apriori Algorithm :
  Apriori algorithm is a classical algorithm in data mining that is used for mining frequent itemsets and association rule mining.Apriori algorithm assumes that any subset of a frequent itemset must be frequent.
  In this we find the four thing on which basis we can make the profit more by selling the things 
       1. Support
