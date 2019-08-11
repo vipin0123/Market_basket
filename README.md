@@ -19,5 +19,6 @@ Confidence : Confidence (x => y) signifies the likelihood of the item y being pu
  
               Lift((item1,item2)=>item3)=support(item1,item2,item3)/support(item1)+support(item3)
               
-Conviction : 
+Conviction : Rule of Conviction
+
             conviction(x=>y)=1-support(item3)/1-confidence(item1,item2=>item3)
